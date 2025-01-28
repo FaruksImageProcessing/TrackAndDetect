@@ -1,3 +1,8 @@
+# MIT License
+# Copyright (c) 2025 Faruk
+# Bu yazılımın kullanımına, değiştirilmesine ve dağıtılmasına izin verilir. Detaylar için LICENSE dosyasına bakınız.
+
+
 import cv2
 import numpy as np
 from scipy.spatial import distance as dist
